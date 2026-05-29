@@ -1,30 +1,5 @@
 {
-  "updated": "2026-05-17T19:23:40Z",
-  "count": 3,
-  "reviews": [
-    {
-      "id": "152ce7184eea7d38",
-      "source": "doctena",
-      "rating": 5,
-      "text": "Een uitstekende ervaring met dr. Vandenbroeck. Hij nam ruim de tijd om alles in detail uit te leggen en stelde mij volledig gerust. Het resultaat overtreft mijn verwachtingen.",
-      "author": "M. V.",
-      "language": "nl"
-    },
-    {
-      "id": "41ec21e0f88290f9",
-      "source": "crisalix",
-      "rating": 5,
-      "text": "Professioneel, empathisch en bijzonder zorgvuldig. Ik voelde me vanaf het eerste consult in goede handen.",
-      "author": "",
-      "language": "nl"
-    },
-    {
-      "id": "5eaf5122f982c5ad",
-      "source": "doctena",
-      "rating": 4,
-      "text": "Heel correcte arts. Goede uitleg vooraf, vlotte opvolging na de ingreep. Aanrader.",
-      "author": "J. D.",
-      "language": "nl"
-    }
-  ]
+  "updated": "2026-05-29T08:09:53Z",
+  "count": 0,
+  "reviews": []
 }
